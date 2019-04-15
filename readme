@@ -1,2 +1,5 @@
 React Navtive 自定义TabBar 
 参考：https://juejin.im/post/5c4fecfaf265da615c59a063
+npm install
+react-navtive run-ios 
+#android 未测试
